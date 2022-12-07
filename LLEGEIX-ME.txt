@@ -1,0 +1,17 @@
+Instruccions:
+1a.- git checkout -b branca00
+1b.- git checkout branca00
+1c.- git status
+5.- git checkout main
+  - git status
+  - git log
+7.- git checkout branca00
+10b.- git merge branca00
+12.- git push
+14a.- git push origin branca01
+
+Respostes:
+6.- No es pot veure l'última linia afegida perqué estem a la branca main, i la modificació es va fer des de la branca00.
+7.- Sí que es pot veure l'última linia afegida perqué estem a la branca00.
+12c.- Perque s'ha fet el push des de la branca main.
+14c.- Està a un commit de distància de la branca main.
